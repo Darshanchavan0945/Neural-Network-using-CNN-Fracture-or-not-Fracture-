@@ -1,6 +1,6 @@
 # Neural-Network-using-CNN-Fracture-or-not-Fracture-
 
-Using CNN with importing servral Libraries like pandas ,matplotlib,seaborn,tensorflow,tensorflow.Sequential,os,cv2 build the model.
+Using CNN with importing sevral Libraries like pandas ,matplotlib,seaborn,tensorflow,tensorflow.Sequential,os,cv2 build the model.
 
 Using Conv2D,MaxPool2D,Flatten,Dense,Dropout this sevral layers our model learn the images.
 
